@@ -1,0 +1,8 @@
+C:\dialytask\Assisted Practice\phase1section4.7c\bin\Debug\phase1section4.7c.exe.config
+C:\dialytask\Assisted Practice\phase1section4.7c\bin\Debug\phase1section4.7c.exe
+C:\dialytask\Assisted Practice\phase1section4.7c\bin\Debug\phase1section4.7c.pdb
+C:\dialytask\Assisted Practice\phase1section4.7c\obj\Debug\phase1section4.7c.csproj.AssemblyReference.cache
+C:\dialytask\Assisted Practice\phase1section4.7c\obj\Debug\phase1section4.7c.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Assisted Practice\phase1section4.7c\obj\Debug\phase1section4.7c.csproj.CoreCompileInputs.cache
+C:\dialytask\Assisted Practice\phase1section4.7c\obj\Debug\phase1section4.7c.exe
+C:\dialytask\Assisted Practice\phase1section4.7c\obj\Debug\phase1section4.7c.pdb
